@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="hw_03" targetName="test_hw_03" />
+      <config projectName="hw_03" targetName="hw_03" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7f86d28-e926-4b5f-ab2f-0e7e5bece550" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1aweg7YOqQiJeZezurmBCUUO988" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="CMake Application.test_hw_03">
+    <configuration name="hw_03" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-u -f out.bin -o new_out.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw_03" TARGET_NAME="hw_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw_03" RUN_TARGET_NAME="hw_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_hw_03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw_03" TARGET_NAME="test_hw_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw_03" RUN_TARGET_NAME="test_hw_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.hw_03" />
+      <item itemvalue="CMake Application.test_hw_03" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7f86d28-e926-4b5f-ab2f-0e7e5bece550" name="Default Changelist" comment="" />
+      <created>1587651191842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587651191842</updated>
+      <workItem from="1587651193336" duration="609000" />
+      <workItem from="1587972911868" duration="20307000" />
+      <workItem from="1588009373159" duration="2056000" />
+      <workItem from="1588018953977" duration="3873000" />
+      <workItem from="1588086046597" duration="237000" />
+      <workItem from="1588086646199" duration="609000" />
+      <workItem from="1588098431619" duration="4922000" />
+      <workItem from="1588134192636" duration="5661000" />
+      <workItem from="1588180327879" duration="4000" />
+      <workItem from="1588218533833" duration="9013000" />
+      <workItem from="1588268098170" duration="1938000" />
+      <workItem from="1588787582836" duration="602000" />
+      <workItem from="1589007108623" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588269253881">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="167" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.27.1313.741@53.27.1313.741" timestamp="1588269253881" />
+    <state width="554" height="462" key="DebuggerActiveHint" timestamp="1588250241092">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="554" height="462" key="DebuggerActiveHint/53.27.1313.741@53.27.1313.741" timestamp="1588250241092" />
+    <state x="224" y="138" width="424" height="511" key="FileChooserDialogImpl" timestamp="1588219253004">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="224" y="138" width="424" height="511" key="FileChooserDialogImpl/53.27.1313.741@53.27.1313.741" timestamp="1588219253004" />
+    <state width="1269" height="137" key="GridCell.Tab.0.bottom" timestamp="1588270035809">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1269" height="137" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1588270035809" />
+    <state width="1269" height="137" key="GridCell.Tab.0.center" timestamp="1588270035809">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1269" height="137" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1588270035809" />
+    <state width="1269" height="137" key="GridCell.Tab.0.left" timestamp="1588270035809">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1269" height="137" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1588270035809" />
+    <state width="1269" height="137" key="GridCell.Tab.0.right" timestamp="1588270035809">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1269" height="137" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1588270035809" />
+    <state x="53" y="28" key="SettingsEditor" timestamp="1587998002284">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="53" y="28" key="SettingsEditor/53.27.1313.741@53.27.1313.741" timestamp="1587998002284" />
+    <state x="380" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1589007115819">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="380" y="224" key="com.intellij.ide.util.TipDialog/53.27.1313.741@53.27.1313.741" timestamp="1589007115819" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/HuffmanArchiver.cpp</url>
+          <line>99</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/HuffmanArchiver.cpp</url>
+          <line>89</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test/TestHuffmanArchiver.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Huffman.cpp</url>
+          <line>95</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="cur_symbol" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

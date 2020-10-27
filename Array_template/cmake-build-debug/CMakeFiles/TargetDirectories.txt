@@ -1,0 +1,3 @@
+/home/olesya/cpp2019/subbotina.olesya/lab_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olesya/cpp2019/subbotina.olesya/lab_13/cmake-build-debug/CMakeFiles/lab_13.dir
+/home/olesya/cpp2019/subbotina.olesya/lab_13/cmake-build-debug/CMakeFiles/edit_cache.dir

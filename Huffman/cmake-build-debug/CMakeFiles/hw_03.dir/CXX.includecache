@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Huffman.h
+iostream
+-
+utility
+-
+vector
+-
+queue
+-
+map
+-
+unordered_map
+-
+memory
+-
+climits
+-
+
+../include/HuffmanArchiver.h
+iostream
+-
+exception
+-
+Huffman.h
+../include/Huffman.h
+
+/home/olesya/cpp2019/subbotina.olesya/hw_03/src/HuffmanArchiver.cpp
+iostream
+-
+unordered_map
+-
+vector
+-
+climits
+-
+HuffmanArchiver.h
+/home/olesya/cpp2019/subbotina.olesya/hw_03/src/HuffmanArchiver.h
+
